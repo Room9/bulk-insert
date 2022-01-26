@@ -36,4 +36,4 @@ commit은 lazy하게 동작하는 것이 좋다
 - Python3.9
 - Aurora MYSQL
 - Pandas
-
+- Jupyter Notebook
